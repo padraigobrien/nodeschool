@@ -1,0 +1,13 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.2",
+  "description": "This is a test",
+  "repository": "http://www.github.com/podgeypoos",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
